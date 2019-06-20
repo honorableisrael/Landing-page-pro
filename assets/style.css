@@ -52,7 +52,7 @@ background: white;
 }
 .container1{
   display:flex;
-  background-image: url('./image/workhompage.jpg');
+  background-image: url('./image/workhomepage.png');
   background-repeat: no-repeat;
   background-size: cover;
   height: 90vh;
@@ -60,15 +60,7 @@ background: white;
   width: 100%;
   margin: 0px;
 }
-.container1::before{
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 12.5%;
-  bottom: -2%;
-  background: rgba(0, 0, 0, 0.5)
-}
+
 .container1-text{
   margin: auto;
   color: white;

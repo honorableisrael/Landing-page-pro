@@ -1,0 +1,16 @@
+{
+  "name": "nodecontactform",
+  "version": "1.0.0",
+  "description": "Sample app using nodemailer",
+  "main": "app.js",
+  "scripts": {
+    "start":"app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brad Traversy",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  }
+}
